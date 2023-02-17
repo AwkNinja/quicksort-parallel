@@ -2,7 +2,7 @@
 Quicksort algorithm in parallel using OPENMP.
 
 Serial time = 2.681000 seconds
-Speed-up = serial time / parallel time
+Speed-up = \frac{serial time}{parallel time}
 Efficiency = Speed-up/ no. of threads
 
 

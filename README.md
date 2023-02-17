@@ -1,9 +1,9 @@
 # quicksort-parallel
 Quicksort algorithm in parallel using OPENMP.
 
-$$Serial\ time = 2.681000\ seconds$$<br>
-$$Speed-up = \frac{serial\ time}{parallel\ time}$$<br>
-$$Efficiency = \frac{Speed-up}{no.\ of\ threads}$$<br>
+$$Serial\ time = 2.681000\ seconds<br>
+Speed-up = \frac{serial\ time}{parallel\ time}<br>
+Efficiency = \frac{Speed-up}{no.\ of\ threads}$$<br>
 
 
 | Threads	| Elapsed-time (sec) |	Speed-up	| Efficiency |
